@@ -18,12 +18,7 @@ A lightweight library for parsing mathematical expressions into an expression tr
 1. **Input**: `(3 + 5) * 2`
 2. **Tokenization**: `(`, `3`, `+`, `5`, `)`, `*`, `2`
 3. **Expression Tree**:  
-    root
-   /   \
-  +     2
- / \
-3   5
-
+<img width="229" alt="image" src="https://github.com/user-attachments/assets/88aab6a6-e1ea-4205-807a-91b3acc96363" />
 4. **Evaluation**: `16`
 
 ## Use Cases
